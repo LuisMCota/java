@@ -1,3 +1,4 @@
+package ejercicio;
 public class ejercicio3 extends Thread{//un programa con estencion en thread
     public void run(){//se crea una funcion llamda run
         for(int i = 10; i > 0; i--){//se crea un buckle
